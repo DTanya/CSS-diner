@@ -1,3 +1,4 @@
+https://flukeout.github.io/
 Вводим команду в первую строку правого окна CSS Editor и нажимаем Enter
 
 01. plate
